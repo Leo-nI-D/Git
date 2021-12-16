@@ -3,6 +3,7 @@
 }
 a{
     text-decoration: none;
+    color: yellow;
 }
 body{
     background-color: black;
@@ -22,6 +23,11 @@ footer{
 }
 
 #button:hover{
+    color: pink;
+    background: purple;
+}
+
+a:hover{
     color: pink;
     background: purple;
 }
