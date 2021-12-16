@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+footer{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: yellow;
+}
+#button{
+    color: yellow;
+    background: grey;
+    border: 0;
+}
+
+#button:hover{
+    color: pink;
+    background: purple;
+}
+
+.dad{
+    color: white;
+    margin-top: 150px;
+	text-align: center;
+}
